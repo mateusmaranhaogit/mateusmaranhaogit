@@ -1,6 +1,5 @@
 ### Salve galera! 👋
 
-- 👨‍💻 Web Designer especialista em Landing Pages
 - 🧑‍🎓 Estudando Análise e Desenvolvimento de Sistemas na FACENS
 - 🚩 Sorocaba-SP
 

@@ -1,5 +1,5 @@
 ### Salve galera! 👋
 
 - 🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas na FACENS em 2024
-- 👨‍💻 Sou Web Designer de Landing Pages e gestor de agentes de IA e automações
-- 🚩 Sorocaba-SP
+- 👨‍💻 Sou Gestor de Agentes de IA e Automações
+- 🚩 Sou de Sorocaba-SP

@@ -1,6 +1,5 @@
 ### Salve galera! 👋
 
-- 🧑‍🎓 Estudando Análise e Desenvolvimento de Sistemas na FACENS
-- 👨‍💻 Sou Web Designer de Landing Pages
-- 📚 Utilizo esse GitHub exclusivamente para tarefas da faculdade
+- 🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas na FACENS em 2024
+- 👨‍💻 Sou Web Designer de Landing Pages e gestor de agentes de IA e automações
 - 🚩 Sorocaba-SP
